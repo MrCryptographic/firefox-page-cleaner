@@ -1,11 +1,11 @@
 # Page Cleaner for Firefox
 
-![License](https://img.shields.io/github/license/Your-Username/firefox-page-cleaner)
-[![Mozilla Add-on](https://img.shields.io/badge/Firefox-Add--on-orange.svg)](https://addons.mozilla.org/...) <!-- TODO: Replace with your actual add-on link when available -->
+![License](https://img.shields.io/github/license/EchoesRealmArrow/firefox-page-cleaner)
+[![Mozilla Add-on](https://img.shields.io/badge/Firefox-Add--on-orange.svg)](https://addons.mozilla.org/...) < TODO: Replace with actual add-on link when available >
 
 A simple Firefox extension to temporarily hide unwanted elements on a webpage with a single click. Clean up a cluttered page for better reading or to take clean screenshots.
 
-![Screenshot of the extension in use](https://i.imgur.com/your-screenshot-url.png) <!-- TODO: Add a screenshot URL -->
+![Screenshot of the extension in use](https://i.imgur.com/your-screenshot-url.png) < TODO: Add a screenshot URL >
 
 ---
 
@@ -28,7 +28,7 @@ A simple Firefox extension to temporarily hide unwanted elements on a webpage wi
 
 #### Option 1: From the Firefox Add-on Store (Recommended)
 
-> **[Install Page Cleaner from Mozilla Add-ons](https://addons.mozilla.org/...)** <!-- TODO: Replace with your actual add-on link -->
+> **[Install Page Cleaner from Mozilla Add-ons](https://addons.mozilla.org/...)** < TODO: Replace with actual add-on link >
 
 #### Option 2: From Source (For Developers)
 
